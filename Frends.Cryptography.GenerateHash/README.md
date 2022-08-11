@@ -1,5 +1,5 @@
 # Frends.Cryptography.GenerateHash
-Calculates hash from input using selected algorithm. Task support following algorithms: MD5, SHA1, SHA 256, SHA 384, SHA 512, HMAC SHA 256 and HMAC SHA 512.
+Calculate hash from input using selected algorithm. Task support following algorithms: MD5, SHA1, SHA 256, SHA 384, SHA 512, HMAC SHA 256 and HMAC SHA 512.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 [![Build](https://github.com/FrendsPlatform/Frends.Cryptography/actions/workflows/GenerateHash_build_and_test_on_main.yml/badge.svg)](https://github.com/FrendsPlatform/Frends.Cryptography/actions)

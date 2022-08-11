@@ -1,6 +1,6 @@
 # Frends.Cryptography
 
-Frends task for generating strings to chosen HashAlgorithm type.
+Frends Tasks for cryptography related operations.
 
 # Tasks
 

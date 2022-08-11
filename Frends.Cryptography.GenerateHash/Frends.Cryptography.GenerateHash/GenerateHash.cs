@@ -12,7 +12,7 @@ namespace Frends.Cryptography.GenerateHash;
 public class Cryptography
 {
 	/// <summary>
-	/// Calculates hash from input using selected algorithm
+	/// Calculate hash from input using selected algorithm
 	/// [Documentation](https://tasks.frends.com/tasks/frends-tasks/Frends.Cryptography.GenerateHash)
 	/// </summary>
 	/// <param name="input">Input parameters</param>
